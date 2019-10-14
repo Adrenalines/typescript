@@ -1,2 +1,2 @@
-# typescript
-There is all rxjs functions here.
+# TypeScript
+There is all TypeScript functions here.
